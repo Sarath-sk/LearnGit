@@ -9,5 +9,11 @@ Console.Writeline("HI");
 
 }
 
+public void sayHello(){
+
+Console.Writeline("Hello");
+
+}
+
 
 }
